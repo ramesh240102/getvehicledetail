@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12825" started-at="2017-06-20T18:25:23Z" finished-at="2017-06-20T18:25:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12825" started-at="2017-06-20T18:25:23Z" finished-at="2017-06-20T18:25:36Z">
+      <class name="com.govdvla.getvehicledetail.GetVehicleInformationTest">
+        <test-method status="PASS" signature="openWebPage()[pri:0, instance:com.govdvla.getvehicledetail.GetVehicleInformationTest@66a3ffec]" name="openWebPage" is-config="true" duration-ms="7431" started-at="2017-06-20T19:25:16Z" finished-at="2017-06-20T19:25:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWebPage -->
+        <test-method status="PASS" signature="verifyVehicleInformation()[pri:0, instance:com.govdvla.getvehicledetail.GetVehicleInformationTest@66a3ffec]" name="verifyVehicleInformation" duration-ms="12814" started-at="2017-06-20T19:25:23Z" finished-at="2017-06-20T19:25:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyVehicleInformation -->
+        <test-method status="PASS" signature="closeWebPage()[pri:0, instance:com.govdvla.getvehicledetail.GetVehicleInformationTest@66a3ffec]" name="closeWebPage" is-config="true" duration-ms="1442" started-at="2017-06-20T19:25:36Z" finished-at="2017-06-20T19:25:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWebPage -->
+      </class> <!-- com.govdvla.getvehicledetail.GetVehicleInformationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
